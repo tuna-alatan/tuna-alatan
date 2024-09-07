@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**tuna-alatan/tuna-alatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Electrical and Electronics Engineer at Bilkent University.
 
 # 💻 Tech Stack:
@@ -16,4 +11,11 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tuna-alatan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--
+**tuna-alatan/tuna-alatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
